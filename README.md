@@ -41,7 +41,7 @@ This repo provides `scripts/compile_falkon_mex.m` and the demo will auto-compile
 ```bash
 git clone --recurse-submodules https://github.com/Ykong21/sampling_falkon_pointwise.git
 cd sampling_falkon_pointwise
-
+```
 ## Quick start (run the synthetic demo)
 
 
